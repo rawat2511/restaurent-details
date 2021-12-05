@@ -1,0 +1,284 @@
+{
+  "restaurents": [
+    {
+      "id": 1,
+      "name": "Green Sweets",
+      "categories": ["Continental", "Ice Creams", "Desserts", "Itelian"],
+      "constForOne": 500,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 593,
+      "reviews": 32,
+      "img_src": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/10/3/0/FNM_110117-Insert-Opener-2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1507047894789.jpeg",
+      "rating": 3.4
+    },
+    {
+      "id": 2,
+      "name": "Red Chilli",
+      "categories": ["Continental", "Desserts", "Itelian"],
+      "constForOne": 350,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 289,
+      "reviews": 24,
+      "img_src": "https://cdn.theculturetrip.com/wp-content/uploads/2021/04/2b0fmky-e1619429563127.jpg",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Killer Pizza from Mars ",
+      "categories": ["Continental", "Itelian", "Thai"],
+      "constForOne": 380,
+      "payment_methods": {
+          "cash": true,
+          "card": false
+      },
+      "votes": 189,
+      "reviews": 16,
+      "img_src": "https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg?fit=700,700",
+      "rating": 2.7
+    },
+    {
+      "id": 4,
+      "name": "The Drunken Taco",
+      "categories": [ "Itelian", "Thai", "Mexican"],
+      "constForOne": 469,
+      "payment_methods": {
+          "cash": true,
+          "card": true
+      },
+      "votes": 604,
+      "reviews": 82,
+      "img_src": "https://static.toiimg.com/photo/77780968.cms",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Plan B Burger",
+      "categories": [ "Itelian", "Thai", "Mexican"],
+      "constForOne": 550,
+      "payment_methods": {
+          "cash": true,
+          "card": false
+      },
+      "votes": 344,
+      "reviews": 42,
+      "img_src": "https://loveincorporated.blob.core.windows.net/contentimages/gallery/d9e900e4-212e-4c3d-96d5-cb14a023c659-worlds-most-delicious-dishes.jpg",
+      "rating": 3.5
+    },
+    {
+      "id": 6,
+      "name": "Spanked Puppy",
+      "categories": [ "Itelian", "Thai", "Mexican"],
+      "constForOne": 560,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 220,
+      "reviews": 38,
+      "img_src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-mashed-potatoes-021-1541716941.jpg?crop=0.667xw:1.00xh;0.153xw,0&resize=640:*",
+      "rating": 1.7
+    },
+    {
+      "id": 7,
+      "name": "Tandem Coffee + Bakery",
+      "categories": [ "Itelian", "Thai", "Mexican"],
+      "constForOne": 250,
+      "payment_methods": {
+          "cash": true,
+          "card": true
+      },
+      "votes": 260,
+      "reviews": 24,
+      "img_src": "https://static.toiimg.com/photo/80888817.cms",
+      "rating": 2.8
+    },
+    {
+      "id": 8,
+      "name": "Mr. & Mrs. Bun",
+      "categories": [ "Itelian", "Thai", "Mexican"],
+      "constForOne": 350,
+      "payment_methods": {
+          "cash": true,
+          "card": false
+      },
+      "votes": 340,
+      "reviews": 39,
+      "img_src": "https://c.ndtvimg.com/2020-05/ijvk9lvg_pav-bhaji_625x300_11_May_20.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 9,
+      "name": "Curry in a Hurry",
+      "categories": [ "Itelian", "Thai", "Chinese"],
+      "constForOne": 480,
+      "payment_methods": {
+          "cash": true,
+          "card": false
+      },
+      "votes": 523,
+      "reviews": 56,
+      "img_src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201708/dish-story_647_081417052301.jpg",
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "name": "The Angry Avocado",
+      "categories": [ "Itelian", "Continental", "Chinese"],
+      "constForOne": 520,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 223,
+      "reviews": 36,
+      "img_src": "https://images.chinahighlights.com/allpicture/2015/10/a09e1fd5fe6247a299ba5b4e_cut_800x500_9.jpg",
+      "rating": 3.2
+    },
+    {
+      "id": 11,
+      "name": "Mama Mai’s Noodles",
+      "categories": [ "Itelian", "Noodles", "Chinese"],
+      "constForOne": 320,
+      "payment_methods": {
+          "cash": true,
+          "card": false
+      },
+      "votes": 263,
+      "reviews": 32,
+      "img_src": "https://static.stacker.com/s3fs-public/styles/sar_screen_maximum_large/s3/31koreaO77G.jpg",
+      "rating": 2.6
+    },
+    {
+      "id": 12,
+      "name": "Patati Patata",
+      "categories": [ "Continental", "Noodles", "Chinese"],
+      "constForOne": 420,
+      "payment_methods": {
+          "cash": true,
+          "card": true
+      },
+      "votes": 345,
+      "reviews": 64,
+      "img_src": "https://static.toiimg.com/thumb/87282159.cms?width=680&height=512&imgsize=276736",
+      "rating": 3.4
+    },
+    {
+      "id": 13,
+      "name": "No Name Restaurant",
+      "categories": [ "Continental", "Noodles", "Chinese"],
+      "constForOne": 620,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 820,
+      "reviews": 129,
+      "img_src": "https://sandinmysuitcase.com/wp-content/uploads/2021/01/Popular-Indian-Food-Dishes.jpg.webp",
+      "rating": 4.9
+    },
+    {
+      "id": 14,
+      "name": "Leaping Lizard Cafe",
+      "categories": [ "Continental", "Thai", "Chinese"],
+      "constForOne": 320,
+      "payment_methods": {
+          "cash": true,
+          "card": true
+      },
+      "votes": 650,
+      "reviews": 84,
+      "img_src": "https://images.indianexpress.com/2017/07/biryani1.jpg",
+      "rating": 3.4
+    },
+    {
+      "id": 15,
+      "name": "Dough Doughnuts",
+      "categories": [ "Continental", "Thai", "Chinese"],
+      "constForOne": 450,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 250,
+      "reviews": 24,
+      "img_src": "http://cdn.cnn.com/cnnnext/dam/assets/210211141826-15-classic-italian-dishes.jpg",
+      "rating": 2.3
+    },
+    {
+      "id": 16,
+      "name": "Cookie Monstah",
+      "categories": [ "Continental", "Thai", "Chinese"],
+      "constForOne": 490,
+      "payment_methods": {
+          "cash": true,
+          "card": false
+      },
+      "votes": 432,
+      "reviews": 34,
+      "img_src": "https://static01.nyt.com/newsgraphics/2021/10/18/food-sidesgiving/assets/images/211011_nyt_sidesgivingcover_21521-460_x2.jpg",
+      "rating": 3.7
+    },
+    {
+      "id": 17,
+      "name": "Cheesy Does It",
+      "categories": [ "Continental", "Itallian", "Chinese"],
+      "constForOne": 280,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 422,
+      "reviews": 45,
+      "img_src": "https://images-na.ssl-images-amazon.com/images/I/71vQTYEvcJL._RI_.jpg",
+      "rating": 2.8
+    },
+    {
+      "id": 18,
+      "name": "The Dairy Godmother",
+      "categories": [ "Continental", "Itallian", "Chinese"],
+      "constForOne": 360,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 462,
+      "reviews": 38,
+      "img_src": "https://c.ndtvimg.com/2021-01/s557722g_gujarati-meal_625x300_18_January_21.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 19,
+      "name": "Nothing Bundt Cakes",
+      "categories": [ "Desserts", "Itallian", "Chinese"],
+      "constForOne": 780,
+      "payment_methods": {
+          "cash": true,
+          "card": false
+      },
+      "votes": 983,
+      "reviews": 83,
+      "img_src": "https://lh3.googleusercontent.com/ipIx_P9i71wZRlVSGwOWZZb1yClFcEF9z5zRGWfX75hddSKl0PNqQXWx5RM3sdMGHkw5dNRwnUYa0kuWd6xIvbX9RDk=w1000",
+      "rating": 4.1
+    },
+    {
+      "id": 20,
+      "name": "Bite Mi Asian Kitchen",
+      "categories": [ "Desserts", "Itallian", "Chinese"],
+      "constForOne": 640,
+      "payment_methods": {
+          "cash": false,
+          "card": true
+      },
+      "votes": 563,
+      "reviews": 43,
+      "img_src": "https://www.thespruceeats.com/thmb/5oL7uPqCjsZQw0yd2i_KkK9r-kw=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1042998066-518ca1d7f2804eb09039e9e42e91667c.jpg",
+      "rating": 3.9
+    }
+  ]
+}
